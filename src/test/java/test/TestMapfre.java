@@ -110,7 +110,7 @@ public class TestMapfre {
                                 screen.wheel(btndescer, 100, 2);
                                 Thread.sleep(100);
                             } catch (Exception e1) {
-
+                                System.out.println("n tem botao descer");
                             }
 
                             try {
