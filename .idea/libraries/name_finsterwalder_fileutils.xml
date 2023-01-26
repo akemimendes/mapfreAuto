@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="name.finsterwalder.fileutils" type="repository">
+    <properties maven-id="name.finsterwalder:fileutils:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/name/finsterwalder/fileutils/1.1/fileutils-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
